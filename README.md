@@ -7,10 +7,13 @@
 Projeto construido n evento Next Level Week da Rocketseat.
 
 [Clique qui para acessar](https://devbrunold.github.io/NLW--esports-explorer/)
-##  Tecnologias
+
+ ## Tecnologias 🔨
 
 -HTML
+
 -CSS
+
 -Git e GitHub
 
 ## contato
