@@ -1,8 +1,8 @@
-# NLW eSports 
+# NLW eSports 🎮
 
 ![preview](./.github/preview.png)
 
-> Trilha Explorer 
+> Trilha Explorer 🚀
 
 Projeto construido n evento Next Level Week da Rocketseat.
 
@@ -14,5 +14,5 @@ Projeto construido n evento Next Level Week da Rocketseat.
 -Git e GitHub
 
 ## contato
-bruno_sillva@live.com
-phone (21) 99094-6132
+📩 bruno_sillva@live.com
+☎️phone (21) 99094-6132
